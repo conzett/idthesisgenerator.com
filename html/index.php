@@ -66,7 +66,8 @@
         </div>
         <footer role="contentinfo">
                 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fidthesisgenerator.com%2F&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:35px;" allowTransparency="true"></iframe>
-                <div class="g-plusone" data-size="medium" data-annotation="inline" data-href="http://idthesisgenerator.com/"></div>
+
+                <div class="g-plusone" data-size="medium" data-width="200" data-annotation="inline" data-href="http://idthesisgenerator.com/"></div>
         </footer>
         <script src="js/scalefix.js"></script>
         <!--[if (lt IE 9) & (!IEMobile)]>
