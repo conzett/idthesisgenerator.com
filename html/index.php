@@ -9,7 +9,7 @@
 <!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Industrial Design Senior Thesis Generator</title>
+        <title>Industrial Design Thesis Generator</title>
         <meta name="description" content="">
         <meta name="author" content="Graham Conzett">
         <meta name="HandheldFriendly" content="True">
@@ -32,6 +32,12 @@
         <meta http-equiv="cleartype" content="on">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <!--[if lt IE 7 ]><script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script><script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script><![endif]-->
+        <meta property="og:title" content="Industrial Design Thesis Generator" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://idthesisgenerator.com/" />
+        <meta property="og:image" content="" />
+        <meta property="og:site_name" content="Industrial Design Thesis Generator" />
+        <meta property="fb:admins" content="12400149" />
         <script type="text/javascript">
                 var _gaq = _gaq || [];
                 _gaq.push(['_setAccount', 'UA-29024486-1']);
@@ -58,6 +64,7 @@
 
             <p>Already saw that on Coroflot? <a href="/">Try another</a></p>
         </div>
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fidthesisgenerator.com%2F&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>
         <footer role="contentinfo">
         </footer>
         <script src="js/scalefix.js"></script>
