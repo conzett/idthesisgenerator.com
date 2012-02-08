@@ -1,0 +1,174 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { 
+  isplay : block;
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin : 0 auto;
+  background-image : url(../img/classy_fabric.png);
+  font-family : Helvetica, Arial, sans-serif;
+  color : white;
+}
+
+h1, h2, h3, h4 {
+  font-family : 'Francois One', sans-serif;
+  text-shadow : 3px 3px 8px #000;  
+}
+
+[role="banner"] {
+  
+}
+
+[role="main"] {
+
+}
+
+a, .result span {
+  color : #73B30C;
+}
+
+a {
+  text-decoration : none;
+  border-bottom : 1px dotted #94E01B;
+}
+
+.result {
+  text-align : center;
+  padding : 10px 0;
+}
+
+.result span{
+  font-size : 2em;
+  font-weight : bold;
+}
+
+@media only screen and (min-width: 252px) {
+  body {
+    width : 252px;
+  }
+
+  .ft, .senior {
+    position : absolute;
+    margin : -1px;
+    padding : 0;
+    height  : 1px;
+    width : 1px;
+    overflow : hidden;
+    border : 0; 
+    clip : rect(0 0 0 0);
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  body {
+    width : 436px;
+  }
+
+  .senior {
+    position : static;
+    margin : auto;
+    padding : auto;
+    height  : auto;
+    width : auto;
+    overflow : auto;
+    border : auto; 
+    clip : auto;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    width : 712px;
+  }
+
+  .ft {
+    position : static;
+    margin : auto;
+    padding : auto;
+    height  : auto;
+    width : auto;
+    overflow : auto;
+    border : auto; 
+    clip : auto;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+
+}
+
+@media only screen and (min-width: 1382px) {
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), 
+only screen and (-o-min-device-pixel-ratio: 3/2), 
+only screen and (min-device-pixel-ratio: 1.5) {
+
+}
+
+@media print {
+
+  * {
+    background : transparent !important; 
+    color : black !important; 
+    text-shadow : none !important; 
+    filter : none !important; 
+    -ms-filter : none !important;
+  }
+
+  @page { margin : 0.5cm; }
+
+  h2, h3 { 
+    orphans : 3; 
+    widows : 3; 
+    page-break-after : avoid;
+  }
+
+  p { 
+    orphans : 3; 
+    widows : 3;
+  }
+
+  pre, blockquote { 
+    border : 1px solid #999; 
+    page-break-inside : avoid;
+  }
+
+  abbr[title]:after { 
+    content : " (" attr(title) ")";
+  }
+
+  a, a:visited { 
+    color : #444 !important; 
+    text-decoration : underline;
+  }
+
+  a[href]:after { 
+    content : " (" attr(href) ")";
+  }
+
+  a[href^="javascript:"]:after, 
+  a[href^="#"]:after { 
+    content : "";
+  } 
+
+  img { 
+    max-width : 100% !important;
+    page-break-inside : avoid;
+  }
+
+  thead { 
+    display : table-header-group;
+  } 
+
+  tr { 
+    page-break-inside : avoid;
+  }
+
+}
