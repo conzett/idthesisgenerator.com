@@ -52,7 +52,11 @@
         "Solar-powered",
         "Bauhaus-inspired",
         "Blue sky",
-        "KitchenAid"
+        "KitchenAid",
+        "Interactive",
+        "Aerodynamic",
+        "Anthropometric",
+        "Carbon-neutral"
     );
 
     $domain = array(
@@ -125,7 +129,8 @@
         "lighting",
         "messenger bag",
         "exhibit",
-        "projector"
+        "projector",
+        "concept car"
     );
 
     $GLOBALS['adj'] = $adj;
