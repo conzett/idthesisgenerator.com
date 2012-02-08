@@ -55,18 +55,17 @@
     );
 
     $domain = array(
-        "community",
+        "community created",
         "geriatric",
         "education",
         "medical",
         "social media",
         "student life",
         "public transportation",
-        "agriculture",
+        "agricultural",
         "garden",
         "DIY",
         "time keeping",
-        "lighting",
         "EMS",
         "grooming",
         "iPhone",
@@ -74,7 +73,8 @@
         "composting",
         "construction",
         "way finding",
-        "elderly care"            
+        "elderly care",
+        "exercise"           
     );
 
     $thing = array(
@@ -106,7 +106,7 @@
         "garment",
         "tool",
         "structure",
-        "exercise equipment",
+        "equipment",
         "gear",
         "speaker system",
         "GPS",
@@ -119,6 +119,7 @@
         "toaster",
         "salt shaker",
         "signage",
+        "lighting",
         "messenger bag",
         "exhibit"
     );
