@@ -51,7 +51,8 @@
         "Ergonomic",
         "Solar-powered",
         "Bauhaus-inspired",
-        "Blue sky"
+        "Blue sky",
+        "KitchenAid"
     );
 
     $domain = array(
@@ -61,6 +62,7 @@
         "medical",
         "social media",
         "student life",
+        "pet care",
         "public transportation",
         "agricultural",
         "garden",
@@ -83,6 +85,7 @@
         "appliance",
         "app",
         "table",
+        "furniture",
         "coffee maker",
         "seating aparatus",
         "chair",
@@ -121,7 +124,8 @@
         "signage",
         "lighting",
         "messenger bag",
-        "exhibit"
+        "exhibit",
+        "projector"
     );
 
     $GLOBALS['adj'] = $adj;
