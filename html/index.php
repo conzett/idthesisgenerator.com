@@ -28,14 +28,14 @@
         <link rel="shortcut icon" href="/favicon.ico">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-        <link rel="apple-touch-startup-image" href="img/splash.png">
+        <link rel="apple-touch-startup-image" href="img/low/splash.png">
         <meta http-equiv="cleartype" content="on">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <!--[if lt IE 7 ]><script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script><script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script><![endif]-->
         <meta property="og:title" content="Industrial Design Thesis Generator" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="http://idthesisgenerator.com/" />
-        <meta property="og:image" content="" />
+        <meta property="og:image" content="http://idthesisgenerator.com/img/high/apple-touch-icon.png" />
         <meta property="og:site_name" content="Industrial Design Thesis Generator" />
         <meta property="fb:admins" content="12400149" />
         <script type="text/javascript">
